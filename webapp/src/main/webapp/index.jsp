@@ -1,4 +1,4 @@
-<html>
+i<html>
 <head>
     <title>Ganpati Bappa Morya</title>
     <meta name="viewport" content="width=device-width,initial-scale=1" >
@@ -25,6 +25,6 @@
         <div id="left-leg"></div>
     </div>
     <br>
-    <div class="text">|| गणपती बाप्पा मोरया ||</div>
+    <div class="text">|| BANER BOY'S ROCKS </div>
 </body>
 </html>
