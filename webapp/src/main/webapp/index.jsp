@@ -1,7 +1,7 @@
 <html> 
   
 <head> 
-    <title>HTML Calculator</title> 
+    <title> DevOps Calci</title> 
   
     <!-- For styling -->
     <style> 
