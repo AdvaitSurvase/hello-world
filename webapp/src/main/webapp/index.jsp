@@ -47,7 +47,7 @@
         <tr> 
             <td><input type="button" value="A"></td> 
             <td><input type="button" value="D"></td> 
-            <td><input type="button" value="U"></td> 
+            <td><input type="button" value="u"></td> 
             <td><input type="button" value="/"></td> 
         </tr> 
         <tr> 
